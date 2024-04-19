@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/gob"
 
-	"github.com/kenjitheman/shinjiru/wallet"
+	"github.com/nezutero/shinjiru/wallet"
 )
 
 type TxOutput struct {

@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/kenjitheman/shinjiru/blockchain"
-	"github.com/kenjitheman/shinjiru/network"
-	"github.com/kenjitheman/shinjiru/wallet"
+	"github.com/nezutero/shinjiru/blockchain"
+	"github.com/nezutero/shinjiru/network"
+	"github.com/nezutero/shinjiru/wallet"
 )
 
 type CommandLine struct{}
