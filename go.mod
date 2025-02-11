@@ -7,7 +7,7 @@ require (
 	github.com/mr-tron/base58 v1.2.0
 	github.com/stretchr/testify v1.4.0
 	github.com/vrecan/death/v3 v3.0.3
-	golang.org/x/crypto v0.21.0
+	golang.org/x/crypto v0.31.0
 )
 
 require (
@@ -19,7 +19,7 @@ require (
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
-	gopkg.in/yaml.v2 v2.2.2 // indirect
+	golang.org/x/net v0.33.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 )
